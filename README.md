@@ -13,4 +13,4 @@ Key Learning Outcomes:
 * Plotted final result using scatter plots
 
 ## Next Plan:
-* To implement compare multiple diseases at the same time.
+* To compare multiple diseases at the same time using the same model.
